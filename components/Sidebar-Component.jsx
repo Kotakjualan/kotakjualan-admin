@@ -79,16 +79,16 @@ export default function SidebarComponent({title, description, children}){
               </div>
             </div>
 
-            <div className="w-full flex flex-wrap px-5 mt-7 justify-between">
+            {/* <div className="w-full flex flex-wrap px-5 mt-7 justify-between">
               <p className="text-gray-800 text-sm">Saldo</p>
               <p className="text-gray-800 text-sm font-semibold">{"Rp. 100.000"}</p>
-            </div>
+            </div> */}
 
-            <div className="w-full px-5">
+            {/* <div className="w-full px-5">
               <button className="text-gray-800 border border-gray-800 hover:bg-black hover:text-white bg-white rounded px-1 py-1 mt-2 font-semibold w-full text-xs">
                 Tarik Saldo
               </button>
-            </div>
+            </div> */}
 
             <div className="w-full border border-gray-100 mt-4 mb-4"></div>          
 
